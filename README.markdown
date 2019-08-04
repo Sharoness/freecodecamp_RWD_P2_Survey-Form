@@ -1,4 +1,2 @@
 # Survey
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/Sharoness/pen/oKZEWN](https://codepen.io/Sharoness/pen/oKZEWN).
-
- 
+To see the webpage, use this link: https://sharoness.github.io/freecodecamp_RWD_P2_Survey-Form/dist/
